@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">PostasApp</string>
+
+    <string name="map_decription">Dirijase al punto/area marcado en el mapa para encontrarse con otro jugador y establecer el contacto NFC.</string>
+
+    <array name="max_players">
+        <item>2 jugadores</item>
+        <item>3 jugadores</item>
+        <item>4 jugadores</item>
+        <item>5 jugadores</item>
+    </array>
+
+    <array name="number">
+        <item>Seleccionar...</item>
+    </array>
+
+    <array name="task_types">
+        <item>Preguntas</item>
+        <!--<item>Frase</item>-->
+    </array>
+
+</resources>

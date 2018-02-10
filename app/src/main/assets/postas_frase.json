@@ -1,0 +1,42 @@
+[
+  {
+    "tipo" : "frase",
+    "posicion" : [{
+      "latitud" : -34.589782,
+      "longitud" : -58.425794
+    }],
+    "frase" : "Salte 5 veces en el lugar sin respirar."
+  },
+  {
+    "tipo" : "frase",
+    "posicion" : [{
+      "latitud" : -34.589782,
+      "longitud" : -58.425794
+    }],
+    "frase" : "De 1 una vuelta de manzana contando los autos rojos que ve."
+  },
+  {
+    "tipo" : "frase",
+    "posicion" : [{
+      "latitud" : -34.589782,
+      "longitud" : -58.425794
+    }],
+    "frase" : "Comer una zanahoria."
+  },
+  {
+    "tipo" : "frase",
+    "posicion" : [{
+      "latitud" : -34.589782,
+      "longitud" : -58.425794
+    }],
+    "frase" : "Cantar a capela:\n \"Besame Mucho\"."
+  },
+  {
+    "tipo" : "frase",
+    "posicion" : [{
+      "latitud" : -34.589782,
+      "longitud" : -58.425794
+    }],
+    "frase" : "Nadar con los tiburones en Hawai."
+  }
+]

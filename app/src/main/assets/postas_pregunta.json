@@ -1,0 +1,104 @@
+[
+  {
+    "tipo" : "pregunta",
+    "posicion" : [{
+      "latitud" : -34.909765,
+      "longitud" : -57.933575
+    }, {
+      "latitud" : -34.909765,
+      "longitud" : -57.933575
+    }],
+    "pregunta" : {
+      "pregunta" : "¿Quién es la mascota de SEGA?",
+      "opcion1" : "Sonic",
+      "opcion2" : "Pac Man",
+      "opcion3" : "Ryu",
+      "opcion4" : "Mario",
+      "correcta" : 1
+    }
+  },
+  {
+    "tipo" : "pregunta",
+    "posicion" : [{
+      "latitud" : -34.909765,
+      "longitud" : -57.933575
+    }, {
+      "latitud" : -34.909455,
+      "longitud" : -57.929559
+    }, {
+      "latitud" : -34.905150,
+      "longitud" : -57.933400
+    }],
+    "pregunta" : {
+      "pregunta" : "¿Cómo se llamaba el personaje que interpretaba Al Pacino en \"Scarface\"?",
+      "opcion1" : "Sonny Montana",
+      "opcion2" : "Tony Montana",
+      "opcion3" : "Michael Corleone",
+      "opcion4" : "Frank Slade",
+      "correcta" : 2
+    }
+  },
+  {
+    "tipo" : "pregunta",
+    "posicion" : [{
+      "latitud" : -34.905150,
+      "longitud" : -57.933400
+    }, {
+      "latitud" : -34.903973,
+      "longitud" : -57.935213
+    }, {
+      "latitud" : -34.909714,
+      "longitud" : -57.941740
+    }],
+    "pregunta" : {
+      "pregunta" : "¿Cómo se llama el protagonista de la saga Indiana Jones?",
+      "opcion1" : "Jack Nicholson",
+      "opcion2" : "Michael Fox",
+      "opcion3" : "Harrison Ford",
+      "opcion4" : "Robin Williams",
+      "correcta" : 3
+    }
+  },
+  {
+    "tipo" : "pregunta",
+    "posicion" : [{
+      "latitud" : -34.909714,
+      "longitud" : -57.941740
+    }, {
+      "latitud" : -34.909740,
+      "longitud" : -57.933779
+    }],
+    "pregunta" : {
+      "pregunta" : "¿Qué día es San Valentín?",
+      "opcion1" : "14 de Marzo",
+      "opcion2" : "15 de Febrero",
+      "opcion3" : "15 de Marzo",
+      "opcion4" : "14 de Febrero",
+      "correcta" : 4
+    }
+  },
+  {
+    "tipo" : "pregunta",
+    "posicion" : [{
+      "latitud" : -34.909740,
+      "longitud" : -57.933779
+    }, {
+      "latitud" : -34.905050,
+      "longitud" : -57.933544
+    }, {
+      "latitud" : -34.903185,
+      "longitud" : -57.936967
+    }, {
+      "latitud" : -34.903555,
+      "longitud" : -57.937461
+    }],
+    "pregunta" : {
+      "pregunta" : "¿Cómo se llama el pájaro símbolo de los Juegos del Hambre?",
+      "opcion1" : "Lechuza",
+      "opcion2" : "Sinsajo",
+      "opcion3" : "Gale",
+      "opcion4" : "Llamas",
+      "correcta" : 2
+    }
+  }
+]
